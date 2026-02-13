@@ -71,10 +71,8 @@ En `style.css` modifica:
 ```
 portfolio/
 ├── index.html
-├── style.css
-├── script.js
-└── assets/
-    └── images/
+└── css/
+    └── estilos.css/
 ```
 
 ---
