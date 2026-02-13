@@ -30,7 +30,7 @@ Abre index.html en tu navegador
 
 - HTML5
 - CSS3
-- JavaScript
+
 
 ---
 
