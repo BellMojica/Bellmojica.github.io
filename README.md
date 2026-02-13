@@ -61,8 +61,8 @@ En la sección de proyectos, añade:
 ### 3. Cambia los colores
 En `style.css` modifica:
 ```css
---primary-color: #00d4ff;
---secondary-color: #00ff88;
+--primary-color: #0a0a0a;
+--secondary-color: ##111111;
 ```
 
 ---
