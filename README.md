@@ -1,3 +1,17 @@
-¡Hola! Soy ingeniero de sistemas apasionado por transformar problemas complejos en soluciones técnicas intuitivas y de alto impacto. Mi enfoque principal es optimizar procesos para que la tecnología trabaje a favor de las personas y los negocios.
-Como Ingeniero de Sistemas, mi meta es simple: diseñar tecnología que funcione sin fricciones. Me especializo en la arquitectura de sistemas y la gestión del ciclo de vida de software, siempre con un ojo puesto en la eficiencia operativa
-Me motiva el aprendizaje continuo, la resolución creativa de problemas y la colaboración en equipos multidisciplinarios para construir infraestructuras tecnológicas robustas y escalables.
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Bell Mojica, and I'm a System Engineer, from Colombia</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Systems engineer passionate about technology.<br>📚 I'm currently learning AI focused on data analysis.<br>🎯 Goals: Design, build, optimize, and maintain intricate systems by emphasizing measurable successes in enhancing performance, reliability, security, and efficiency.</p>
+
+###
+
+<h2 align="left">I code with</h2>
