@@ -18,7 +18,7 @@
 
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: var(--bg-primary);
+            background: url(fondo.gif), #050505;
             color: var(--text-primary);
             line-height: 1.7;
             -webkit-font-smoothing: antialiased;
